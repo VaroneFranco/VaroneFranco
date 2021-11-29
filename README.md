@@ -2,6 +2,7 @@
 <h3 align="center">A full stack web developer </h3>
 
 - 🌱 My knowledge is **JavaScript, Typescript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, Mongoose, MongoDB**, but open to learn another technology
+- 📫 How to reach me **Francovarone@hotmail.com.ar**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
