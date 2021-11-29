@@ -7,7 +7,7 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/franco-varone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-aicardi-developer" height="30" width="40" /></a>
-  <a href="mailto:Francovarone@hotmail.com.ar" target="blank"><img align="center" src="http://assets.stickpng.com/thumbs/584856a0e0bb315b0f7675a9.png" alt="Mail To" height="30" width="40" /></a>
+  <a href="mailto:Francovarone@hotmail.com.ar" target="blank"><img align="center" src="https://png.pngtree.com/element_our/png_detail/20181213/inbox-vector-icon-png_267453.jpg" alt="Mail To" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
